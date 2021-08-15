@@ -1,0 +1,8 @@
+type MetroSt2am @model {
+  id: ID!
+  Attiguppe: String!
+  Jalahalli: String!
+  Jayanagar: String!
+  MgRoad: String!
+  Vijaynagar: String!
+ }

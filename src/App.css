@@ -1,0 +1,17 @@
+.navbar{
+  padding: 10px;
+  margin: 20px;
+}
+.box{
+  
+  align-items: center;
+  padding: 20px;
+  margin: 20px;
+  width: 600px;
+  box-shadow: 0 5px 20px gray;
+}
+
+.container{
+  padding-top: 50px;
+ 
+}
